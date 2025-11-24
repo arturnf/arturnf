@@ -1,6 +1,6 @@
 ## 💻Seja bem-vindo ao meu espaço de código
 
-## 🛠 Habilidades
+### 🛠 Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://arturferreira.com/imagensPublicas/js.png">

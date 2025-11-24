@@ -1,8 +1,8 @@
 ## 💻Seja bem-vindo ao meu espaço de código
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="techs" height="100" width="100" src="https://arturferreira.com/imagensPublicas/techs.png">
-</div>
+## 🛠 Habilidades
+
+![App Screenshot](https://arturferreira.com/imagensPublicas/techs.png)
   
   ##
  

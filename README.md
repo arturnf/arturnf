@@ -7,7 +7,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://arturferreira.com/imagensPublicas/html.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://arturferreira.com/imagensPublicas/css.png">
   <img align="center" alt="PhP" height="30" width="40" src="https://arturferreira.com/imagensPublicas/php.png">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://arturferreira.com/imagensPublicas/laravel.png">
+  <img align="center" alt="Laravel" height="30" width="30" src="https://arturferreira.com/imagensPublicas/laravel.png">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://arturferreira.com/imagensPublicas/ts.png">
   <img align="center" alt="React" height="30" width="40" src="https://arturferreira.com/imagensPublicas/react.png">
 </div>

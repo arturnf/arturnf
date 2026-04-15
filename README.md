@@ -2,7 +2,7 @@
 
 ### 🛠 Habilidades
 
-<div style="display: flex; align-items: center;"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://arturferreira.com/imagensPublicas/js.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://arturferreira.com/imagensPublicas/html.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://arturferreira.com/imagensPublicas/css.png">
